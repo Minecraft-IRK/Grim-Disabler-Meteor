@@ -14,6 +14,4 @@ The 5cm versions have compiled/corrupted files to prevent potential backdoors/ra
 2. Build it using: `./gradlew build`
 
 ## Authorship
-The authors are varied. Thanks to 0x22 for adding the pauseEat. The original creator of this code is unknown to me, but I appreciate their work. I rewrote the mod for improved functionality.
-
-Best regards, iroaK.
+The authors are varied. Thanks to 0x22 for adding the pauseEat. The original creator of this code is unknown to me, but I appreciate their work. I rewrote the mod for improved functionality. Best regards, iroaK.
