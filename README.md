@@ -6,7 +6,7 @@ The 5cm versions have compiled/corrupted files to prevent potential backdoors/ra
 
 ### How to Use
 1. Download [MeteorClient](https://meteorclient.com) for version 1.20.4.
-2. Download the .JAR from the [Releases section](https://github.com/).
+2. Download the JAR from the [Releases](https://github.com/Minecraft-IRK/Grim-Disabler-Meteor/releases)
 3. If you're unsure about the code, you can download a [Java Decompiler](http://java-decompiler.github.io/) to read and verify it.
 
 ### Compilation Instructions
