@@ -5,7 +5,7 @@ This module is designed to disable any AC Grim check using the Trident Spam in h
 The 5cm versions have compiled/corrupted files to prevent potential backdoors/rats from being read. [Imgur Album](https://imgur.com/a/Q1ZvvF7)
 
 ### How to Use
-1. Download [MeteorClient](https://meteorclient.com) for version: 1.20.4, 1.20.2, 1.20.1
+1. Download [MeteorClient](https://meteorclient.com) for version: 1.20.4
 2. Download the JAR from the [Releases](https://github.com/Minecraft-IRK/Grim-Disabler-Meteor/releases)
 3. If you're unsure about the code, you can download a [Java Decompiler](http://java-decompiler.github.io/) to read and verify it.
 
