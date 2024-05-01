@@ -1,6 +1,9 @@
 # Grim Disabler Meteor
 This module is designed to disable any AC Grim check using the Trident Spam in hand.
 
+### 2B2T
+This module is patched in 2b2t (hes disable riptile enchant lol)
+
 ### Caution
 The 5cm versions have compiled/corrupted files to prevent potential backdoors/rats from being read. [Imgur Album](https://imgur.com/a/Q1ZvvF7)
 
